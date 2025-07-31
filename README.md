@@ -1,6 +1,5 @@
-# Project Title: [# exercise-machine-learning-competitions]
+# Project Title: [exercise-machine-learning-competitions]
 
-> *Replace this line with a short one-line summary of your project*
 
 ## 🎯 Project Objective
 
